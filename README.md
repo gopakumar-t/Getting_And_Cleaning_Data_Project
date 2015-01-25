@@ -1,4 +1,5 @@
 Getting and Cleaning Data
+
 Course Project 
 
 R script , run_analysis.R does the following:
