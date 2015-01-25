@@ -16,6 +16,8 @@ Step 5: From the data set in step 4, creates a second, independent tidy data set
 
 
 
+
+
 Steps to run the run_analysis.R script: 
 
 1) Download source data from 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'
