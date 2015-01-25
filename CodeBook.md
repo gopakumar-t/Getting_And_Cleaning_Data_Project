@@ -1,5 +1,6 @@
 CodeBook for Getting and Cleaning Data Course Project:
 
+
 This  code book explains the data, variables and all  transformations performed to clean up the data.
 
 
@@ -81,8 +82,7 @@ run_analysis.R perform the following activities to implements the above steps:
 14) Summarize the combinedData2 to include just the mean of each variable for each activity and each subject
 15) Merging the tidyData with activity label to include activity description.
 
-16) Write the tidy data to a tidy_data.txt file.
-
+16) Write the tidy data to a tidy_data.txt file. 
 
 
 

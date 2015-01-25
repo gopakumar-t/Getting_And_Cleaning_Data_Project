@@ -69,5 +69,5 @@ tidyData    = aggregate(combinedData2[,names(combinedData2) != c('activityId', '
 # Merging the tidyData with activity label to include activity description.
 tidyData    = merge(activityLabels, tidyData, by='activityId', sort=FALSE, all.y=TRUE);
 
-#Write the tidy data to a text file.
+#Write the tidy data to tidy_data.txt file.
 write.table(tidyData, "tidy_data.txt", sep="\t")
